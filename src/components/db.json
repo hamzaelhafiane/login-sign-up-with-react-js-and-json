@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "anailias",
+      "password": "salah",
+      "email": "thefirstoula@hotmail.com",
+      "id": 1
+    },
+    {
+      "username": "zaka",
+      "password": "npn",
+      "email": "zaka@diode.com",
+      "id": 2
+    },
+    {
+      "username": "abdsamad",
+      "password": "zilio",
+      "email": "api@blasatoro.com",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+ul{
+    display: flex;
+}
+li{
+    margin-left: 25px;
+}
+body
+{
+    color: #2a63b9;
+    background-color: rgb(209, 179, 236);
+}
